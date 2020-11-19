@@ -1,0 +1,35 @@
+.container {
+  max-width: 1170px;
+  margin: 80px auto 0;
+} 
+
+.debug .row [class*="col-"]{
+  border: 1px solid black;
+  height: 150px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.tx-center {
+  text-align: center;
+}
+
+.img-h-250 {
+  height: 250px;
+}
+
+.p-tb20-lr50 {
+  padding: 20px 50px;
+}
+
+.p-tb20-lr30 {
+  padding: 20px 30px;
+}
+
+.grey {
+  background-color: lightgrey;
+}
+
+
