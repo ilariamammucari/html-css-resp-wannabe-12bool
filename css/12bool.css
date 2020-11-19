@@ -5,6 +5,10 @@
   box-sizing: border-box;
 }
 
+.row {
+  width: 100%;
+}
+
 .row::after{
   display: table;
   content:"";
